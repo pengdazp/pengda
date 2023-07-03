@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\2039\Desktop\master\DataStructure\code\ThrBiTree.h(2,40): warning C4091: “typedef ”: 没有声明变量时忽略“PointerTag”的左侧
+  code.vcxproj -> C:\Users\2039\Desktop\master\DataStructure\code\Debug\code.exe
