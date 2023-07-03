@@ -1,0 +1,3 @@
+/home/zhangyuqing/桌面/PengdaEnglishStudy/cmake-build-debug/CMakeFiles/PengdaEnglishStudy.dir
+/home/zhangyuqing/桌面/PengdaEnglishStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhangyuqing/桌面/PengdaEnglishStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
